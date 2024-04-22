@@ -10,3 +10,5 @@ Interactive Elements: Incorporates interactive elements such as icons for callin
 Technologies Used:
 Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Dart: The programming language used to develop Flutter applications, known for its simplicity and efficiency.
+
+ScreenShot:![Снимок экрана 2024-04-22 160142](https://github.com/dimashbalabek/flutter_hw4/assets/144226438/2420521a-b889-446a-be5e-eef28924066a)
